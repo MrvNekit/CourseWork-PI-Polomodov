@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\kt\\ParkingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\hostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\hostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|F:\\kt\\ParkingApp\\parkingapp\\hostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\hostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|F:\\kt\\ParkingApp\\parkingapp\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\driverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\topupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\topupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\topupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\topupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|F:\\kt\\ParkingApp\\parkingapp\\topupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\topupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\driverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\driverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\hostform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\hostform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|F:\\kt\\ParkingApp\\parkingapp\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\bookingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\bookingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|F:\\kt\\ParkingApp\\parkingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|f:\\kt\\parkingapp\\parkingapp\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333D343-492B-4570-BAE3-170AE4944E5D}|ParkingApp\\ParkingApp.csproj|solutionrelative:parkingapp\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HostForm.Designer.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\HostForm.Designer.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\HostForm.Designer.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\HostForm.Designer.cs",
+              "RelativeToolTip": "ParkingApp\\HostForm.Designer.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAkwBMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:18:53.588Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverForm.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\DriverForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\DriverForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\DriverForm.cs",
+              "RelativeToolTip": "ParkingApp\\DriverForm.cs",
+              "ViewState": "AgIAAIQCAAAAAAAAAAAkwK4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:55:49.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\Form1.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\Form1.cs",
+              "RelativeToolTip": "ParkingApp\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:42:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HostForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\HostForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\HostForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\HostForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ParkingApp\\HostForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:53:34.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HostForm.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\HostForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\HostForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\HostForm.cs",
+              "RelativeToolTip": "ParkingApp\\HostForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:18:41.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\DriverForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\DriverForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\DriverForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ParkingApp\\DriverForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:53:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopUpForm.Designer.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\TopUpForm.Designer.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\TopUpForm.Designer.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\TopUpForm.Designer.cs",
+              "RelativeToolTip": "ParkingApp\\TopUpForm.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:57:32.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\User.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\User.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\User.cs",
+              "RelativeToolTip": "ParkingApp\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:29:07.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TopUpForm.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\TopUpForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\TopUpForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\TopUpForm.cs",
+              "RelativeToolTip": "ParkingApp\\TopUpForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:56:57.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopUpForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\TopUpForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\TopUpForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\TopUpForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ParkingApp\\TopUpForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:56:51.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DriverForm.Designer.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\DriverForm.Designer.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\DriverForm.Designer.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\DriverForm.Designer.cs",
+              "RelativeToolTip": "ParkingApp\\DriverForm.Designer.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAvwBYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:56:31.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\BookingForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\BookingForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\BookingForm.cs",
+              "RelativeToolTip": "ParkingApp\\BookingForm.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwG0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:31:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\BookingForm.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\BookingForm.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\BookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ParkingApp\\BookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:31:28.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataModels.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\DataModels.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\DataModels.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\DataModels.cs",
+              "RelativeToolTip": "ParkingApp\\DataModels.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:07:33.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingDialog.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\BookingDialog.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\BookingDialog.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\BookingDialog.cs",
+              "RelativeToolTip": "ParkingApp\\BookingDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:06:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingForm.Designer.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\BookingForm.Designer.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\BookingForm.Designer.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\BookingForm.Designer.cs",
+              "RelativeToolTip": "ParkingApp\\BookingForm.Designer.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAAIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:33:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\Form1.Designer.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\Form1.Designer.cs",
+              "RelativeToolTip": "ParkingApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswL8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:52:30.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Panel.cs",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\Panel.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\Panel.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\Panel.cs",
+              "RelativeToolTip": "ParkingApp\\Panel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:30:52.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\kt\\ParkingApp\\ParkingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ParkingApp\\Form1.cs",
+              "ToolTip": "F:\\kt\\ParkingApp\\ParkingApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ParkingApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:51:44.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
